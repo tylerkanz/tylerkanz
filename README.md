@@ -53,7 +53,7 @@
 ![ELASTICACHE](https://img.shields.io/badge/ELASTICACHE-%23FF9900.svg?style=for-the-badge&logo=amazon-elasticache&logoColor=white)
 
 ## Development Tools:
-![GitHubActions](https://img.shields.io/badge/-GitHub%20Actions-E10098?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHubActions](https://img.shields.io/badge/-GitHub%20Actions-20232a?style=for-the-badge&logo=github-actions&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
