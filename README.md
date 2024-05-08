@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tyler Kanz</h1>
-<h3 align="center">A passionate full-stack developer from Florida</h3>
+<h3 align="center">A passionate Software Engineer from Florida</h3>
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tylerkanz) 
