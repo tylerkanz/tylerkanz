@@ -45,7 +45,15 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
+## AWS Services:
+![ECS](https://img.shields.io/badge/ECS-%23FF9900.svg?style=for-the-badge&logo=amazon-ecs&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-%23FF9900.svg?style=for-the-badge&logo=amazon-rds&logoColor=white)
+![S3](https://img.shields.io/badge/S3-%23FF9900.svg?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![LAMBDA](https://img.shields.io/badge/LAMBDA-%23FF9900.svg?style=for-the-badge&logo=amazon-lambda&logoColor=white)
+![ELASTICACHE](https://img.shields.io/badge/ELASTICACHE-%23FF9900.svg?style=for-the-badge&logo=amazon-elasticache&logoColor=white)
+
 ## Development Tools:
+![GitHubActions](https://img.shields.io/badge/-GitHub%20Actions-E10098?style=for-the-badge&logo=github-actions&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
