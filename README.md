@@ -30,6 +30,11 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Amplify](https://img.shields.io/badge/Amplify-%23FF9900.svg?style=for-the-badge&logo=amplify-aws&logoColor=white)
 
+## Mobile Development:
+![Flutter](https://img.shields.io/badge/flutter-%2342A5F5.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![ReactNative](https://img.shields.io/badge/reactnative-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NativeScript](https://img.shields.io/badge/nativescript-%2342A5F5.svg?style=for-the-badge&logo=nativescript&logoColor=white)
+
 ## Database Management:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
